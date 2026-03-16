@@ -1,0 +1,4 @@
+Current admin login (from .env)
+
+Email: admin@busvara.local
+Password: BusVaraAdmin@2026
